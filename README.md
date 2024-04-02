@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/raikasoftware/gap-privacy-policy/raw/main/launcher_icon.png" style="height: 100px; width:100px;"/></p>
+<p align="center"><img src="https://github.com/raikasoftware/gap-privacy-policy/raw/main/GapLogo.png" style="height: 100px; width:100px;"/></p>
 
 # Privacy Policy for G14 Pro
 
